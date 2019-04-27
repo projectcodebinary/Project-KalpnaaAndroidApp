@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Kalpanaa</string>
+    <string name="English">ENGLISH</string>
+    <string name="Bengali">BENGALI</string>
+    <string name="Tamil">TAMIL</string>
+    <string name="Gujrati">GUJRATI</string>
+    <string name="Telegu">TELEGU</string>
+    <string name="Marathi">MARATHI</string>
+    <string name="Nepali">NEPALI</string>
+    <string name="Hindi">HINDI</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Login">Login</string>
+    <string name="Register">New User? SignUp</string>
+    <string name="ChangeLanguage">Change Language</string>
+    <string name="Introduction">
+    Introducing\n
+    KALPANAA\n
+ A Women Entrepreneur Support Programme
+        Launched with a vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.
+</string>
+    <string name="About">About Kalpnaa</string>
+    <string name="AboutString">Kalpana is a women entrepreneur support programme started with the vision to boost the entrepreneurial spirit in women to give their household business a new dimension by bringing it up in the global front or to help them shape their idea of a new business.
+
+Through this programme women will be able access digital services and infrastructure which will shape, support and develop their ideas in order make their business endeavours successful at a very minimal and affordable cost.</string>
+    <string name="Insight">Insight</string>
+    <string name="InsightString">In India, women comprise about 30 percent of corporate senior management positions, which is notably higher than the global average (24 percent).
+
+But in the overall workforce, India is one of the worst countries in the world — 113th out of 135 — when it comes to the gender gap. And women entrepreneurs constitute only 10 percent of the total number of entrepreneurs in the country.</string>
+
+    <string name="OurVision">Our Vision</string>
+    <string name="OurVisionString">We believe in women empowerment and the social and economic changes it can bring in the society at large.</string>
+
+    <string name="EconomicGrowth">Economic Growth</string>
+    <string name="EconomicGrowthString">Women entrepreneurs have more effective communicational, networking skills which reduces the risk of faliure of their organizations.
+        Therefore,the influx of more women into the workforce will led to significant economic growth.
+    \n\n\tpage 1 of 3</string>
+
+    <string name="NarrowingGenderGap">Narrowing Gender Gap</string>
+    <string name="NarrowingGenderGapString">When women become successful in a field, the next generation of women is more likely to emulate their success. This leads to more job creation for women which ultimately helps in reducing the gender gap in workforce.
+    \n\n\tpage 2 of 3</string>
+
+    <string name="SocialChange">SocialChange</string>
+    <string name="SocialChangeString">Woman entrepreneurship can lead to tremendous social change, making women financially independent. That can increase levels of confidence and happiness in women and boost their self-esteem and overall well-being.
+    \n\n\tpage 3 of 3</string>
+    <string name="Pricing">Pricing</string>
+    <string name="PricingString">The most affordable and simple solution to boost women in their entrepreneurial venture. We have kept the subscription costs as low as possible so that more women can avail of the opportunities that we provide through different plans.</string>
+    <string name="Basic">Basic</string>
+    <string name="BasicString">
+    ₹1000/mo
+        \nSingle-Page Website
+   \nDomain Support yourbusiness.codebinary.in
+    \nHosting Support
+    \n1 Database
+    \n1 Business Email
+    \n10 GB Storage
+    \nNO SSL Certificate
+    \nLogo Design
+    \n100 Business Card
+    \n1000 SMS Marketing
+    \nUnmetered Bandwidth
+    \nTechnical Support and Maintenance
+    \nCMS Support by Github
+    \nUdyogAadhar Assistance
+    \nUS Data Center
+    \nSubscription Duration: 3 months
+
+</string>
+    <string name="Standard">Standard</string>
+    <string name="StandardString">
+        ₹1500/mo\n
+        4-Page Website\n
+    Domain Support yourbusiness.codebinary.in\n
+    Hosting Support\n
+    2 Database\n
+    2 Business Email\n
+    20 GB Storage\n
+    NO SSL Certificate\n
+    Logo Design, Business Card Design\n
+    1000 Business Card\n
+    2000 SMS Marketing\n
+    Unmetered Bandwidth\n
+    Technical Support and Maintenance\n
+    CMS Support by Github\n
+    UdyogAadhar Assistance\n
+    US Data Center\n
+    Subscription Duration: 3 months
+
+
+    </string>
+    <string name="Premium">Premium</string>
+    <string name="PremiumString">
+        ₹3000/mo\n
+        Unlimited-Page Website\n
+    Domain Support yourbusiness.codebinary.in\n
+    Hosting Support\n
+    Unlimited Database\n
+    Unlimited Business Email\n
+    Unlimited Storage\n
+    SSL Certificate Support\n
+    Logo Design, Business Card Design\n
+    2000 Business Card\n
+    5000 SMS Marketing\n
+    Unmetered Bandwidth\n
+    Technical Support and Maintenance\n
+    CMS Support by Github\n
+    UdyogAadhar Assistance\n
+    US Data Center\n
+    Subscription Duration: 3 months\n
+
+
+    </string>
+    <string name="GetStarted">Get Started</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="ContactUsString">
+        FF-27,Cross Road Mall,Central Spine,\n
+        Vidhyadhar Nagar, Jaipur\n
+        Rajasthan, India\n
+\n
+        Email: kalpanaa@codebinary.in
+    </string>
+    <string name="TermsOfService">Terms-Of-Service</string>
+    <string name="TermsOfServiceLink">https://codebinary.in/terms-of-service.html</string>
+</resources>

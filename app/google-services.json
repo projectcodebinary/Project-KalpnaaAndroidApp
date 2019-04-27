@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67201669877",
+    "firebase_url": "https://kalpanaa-29fc9.firebaseio.com",
+    "project_id": "kalpanaa-29fc9",
+    "storage_bucket": "kalpanaa-29fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67201669877:android:942a739657609b42",
+        "android_client_info": {
+          "package_name": "com.example.android.kalpanaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67201669877-bqh6ocpiuanki3hf23osm04agb76jcfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMbzlBPAU4cDvrJokIRna96dXbtL2kaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67201669877-bqh6ocpiuanki3hf23osm04agb76jcfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
