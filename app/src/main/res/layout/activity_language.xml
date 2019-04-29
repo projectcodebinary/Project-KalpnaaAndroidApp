@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backlanguage"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/language1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+
+android:onClick="Language1"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="40dp"
+        android:background="#ea2c58"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowRadius="3"
+        android:textColor="#ffffff"
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/language2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/language1"
+        android:onClick="Language2"
+       android:layout_marginLeft="40dp"
+        android:background="#ea2c58"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowRadius="3"
+        android:textColor="#ffffff"
+        android:textSize="14dp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/language3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/language4"
+        android:onClick="Language3"
+
+
+       android:layout_marginTop="60dp"
+
+        android:layout_toRightOf="@id/language1"
+        android:background="#ea2c58"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowRadius="3"
+        android:textColor="#ffffff"
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/language4"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+
+        android:onClick="Language4"
+        android:layout_marginTop="70dp"
+
+
+        android:layout_toRightOf="@id/language1"
+        android:background="#ea2c58"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowRadius="3"
+        android:textColor="#ffffff"
+
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/swiper"
+        android:layout_width="40dp"
+        android:layout_height="20dp"
+android:layout_below="@id/language2"
+android:layout_toLeftOf="@id/language3"
+android:layout_marginTop="50dp"
+
+android:layout_marginRight="3dp"
+        android:gravity="center"
+        android:shadowColor="#ea2c58"
+
+        android:shadowRadius="3"
+        android:text="o    o "
+        android:textColor="#ea2c58"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

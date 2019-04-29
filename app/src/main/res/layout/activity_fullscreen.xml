@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:padding="6dp">
+
+
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="20sp"
+           android:textColor="#000000"
+           android:text="Login/SignUp"
+           android:layout_alignParentRight="true"
+           android:layout_marginRight="6dp"
+           android:layout_gravity="center_vertical"
+           android:textStyle="bold"/>
+
+
+    </RelativeLayout>
+
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FullscreenActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="6dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/logo"
+        android:src="@drawable/kalpanaa_header"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40dp"
+            android:textColor="#000000"
+            android:text="@string/app_name"
+           android:layout_marginLeft="20dp"
+            android:layout_gravity="center"
+            android:textStyle="bold|italic"/>
+        </LinearLayout>
+
+
+        <TextView
+                android:layout_height="280dp"
+                android:layout_width="match_parent"
+                android:textStyle="italic"
+                android:lineSpacingExtra="6dp"
+                android:text="@string/Introduction"
+                android:textSize="16dp"
+                android:padding="6dp"
+                android:textColor="#ffffff"
+                android:background="@drawable/introduction"
+                android:gravity="center"/>
+        <!--About-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/About"
+            android:padding="6dp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="30dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/AboutString"
+            android:layout_margin="6dp"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20dp" />
+
+
+             <ImageView
+                  android:layout_width="match_parent"
+                  android:layout_height="200dp"
+                  android:scaleType="centerCrop"
+                  android:layout_margin="6dp"
+                  android:id="@+id/About_pic"
+                  android:src="@drawable/welcome"/>
+
+        <!--Insights-->
+        <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/Insight"
+                  android:padding="10dp"
+            android:textColor="#000000"
+                  android:textStyle="bold"
+                  android:textSize="30dp"
+                  />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/InsightString"
+            android:layout_margin="6dp"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20dp"
+            />
+
+              <ImageView
+                  android:layout_width="match_parent"
+                  android:layout_height="200dp"
+                  android:scaleType="centerCrop"
+                  android:padding="10dp"
+                  android:id="@+id/Insight_pic"
+                  android:src="@drawable/need"/>
+
+        <!--Our Vision-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/OurVision"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/OurVisionString"
+            android:gravity="center"
+            android:layout_margin="6dp"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20dp"
+            />
+
+        <android.support.v4.view.ViewPager
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:padding="10dp"
+            android:layout_marginBottom="6dp"
+            android:background="@drawable/back"
+            android:id="@+id/view_pager"/>
+
+        <!--Pricing-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/feature"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_margin="6dp"
+                android:background="@drawable/back">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Pricing"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:textSize="30dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/PricingString"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:layout_margin="6dp"
+            android:textStyle="italic"
+            android:textSize="20dp"
+            />
+
+        <android.support.v4.view.ViewPager
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:id="@+id/view_pager2"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--contact us-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ContactUs"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ContactUsString"
+            android:layout_margin="6dp"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:lineSpacingExtra="2dp"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/TermsOfService"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:textColor="#ff0000"
+            android:paddingBottom="4dp"
+            android:text="@string/TermsOfServiceLink"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+      </ScrollView>
+      </LinearLayout>

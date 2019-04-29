@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalpanaa</string>
+    <string name="English">ENGLISH</string>
+    <string name="Bengali">BENGALI</string>
+    <string name="Tamil">TAMIL</string>
+    <string name="Gujrati">GUJRATI</string>
+    <string name="Telegu">TELEGU</string>
+    <string name="Marathi">MARATHI</string>
+    <string name="Nepali">NEPALI</string>
+    <string name="Hindi">HINDI</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Login">లాగిన్</string>
+    <string name="Register">చేరడం</string>
+    <string name="ChangeLanguage">భాష మార్చు</string>
+    <string name="Introduction">
+పరిచయం\n
+KALPANAA\n
+ఒక మహిళా పారిశ్రామికవేత్త మద్దతు కార్యక్రమం
+
+తమ కుటుంబ వ్యాపారాన్ని నూతన విభాగంలోకి తీసుకొచ్చేందుకు ప్రపంచంలోని వ్యాపార సామర్థ్య స్ఫూర్తిని పెంచడానికి ఒక దృష్టి తో ప్రారంభించారు లేదా ఒక క్రొత్త వ్యాపారాన్ని వారి ఆలోచనను రూపొందించడానికి సహాయం చేసేందుకు సహాయపడింది.
+</string>
+    <string name="About">కల్పనా గురించి</string>
+    <string name="AboutString">కల్పన అనేది మహిళల వ్యాపారాత్మక స్ఫూర్తిని పెంపొందించే దృష్టిని ప్రారంభించే మహిళా వ్యవస్థాపకులకు మద్దతు కార్యక్రమం, ఇది వారి ఇంటి వ్యాపారాన్ని నూతన విభాగంలోకి తీసుకురావటానికి లేదా నూతన వ్యాపారాన్ని వారి ఆలోచనను తీర్చిదిద్దటానికి సహాయపడటానికి సహాయపడుతుంది.
+
+    ఈ కార్యక్రమం ద్వారా మహిళలు తమ యాక్సెస్ను డిజిటల్ సేవలను మరియు మౌలిక సదుపాయాలను కలిగి ఉంటారు, ఇది వారి వ్యాపార ఆలోచనలను విజయవంతంగా మరియు సరసమైన ఖర్చుతో విజయవంతం చేయడానికి తమ ఆలోచనలను ఆకట్టుకునేందుకు, అభివృద్ధి చేయడానికి మరియు అభివృద్ధి చేస్తుంది.</string>
+    <string name="Insight">ఇన్సైట్స్</string>
+    <string name="InsightString">భారతదేశంలో మహిళల్లో 30 శాతం మంది కార్పొరేట్ సీనియర్ మేనేజ్మెంట్ స్థానాలు ఉన్నాయి, ఇది ప్రపంచ సగటు (24 శాతం) కంటే ఎక్కువగా ఉంది.
+
+కానీ మొత్తమ్మీద శ్రామికశక్తిలో, ప్రపంచంలోనే అత్యంత ఘోరమైన దేశాల్లో భారత్ ఒకటి - 135 వ స్థానంలో 113 వ స్థానం - అది లింగ అంతరం విషయానికి వస్తే. దేశంలోని మొత్తం వ్యవస్థాపకుల సంఖ్యలో కేవలం 10 శాతం మాత్రమే మహిళా వ్యవస్థాపకులు ఉన్నారు</string>
+
+    <string name="OurVision">మా దృష్టి</string>
+    <string name="OurVisionString">మేము మహిళా సాధికారత మరియు సామాజిక మరియు ఆర్ధిక మార్పులలో పెద్దగా సమాజాన్ని తీసుకురాగలమని మేము నమ్ముతున్నాము</string>
+
+    <string name="EconomicGrowth">ఆర్థిక వృద్ధి</string>
+    <string name="EconomicGrowthString">మహిళా వ్యవస్థాపకులు మరింత సమర్థవంతమైన కమ్యూనికేషన్, నెట్ వర్కింగ్ నైపుణ్యాలు కలిగి ఉంటారు, ఇది వారి సంస్థల కొరత ప్రమాదాన్ని తగ్గిస్తుంది.
+        అందువల్ల, శ్రామికశక్తికి ఎక్కువ మంది మహిళల ప్రవాహం గణనీయ ఆర్థిక వృద్ధికి దారి తీస్తుంది
+    \n\n\tpage 1 of 3</string>
+
+    <string name="NarrowingGenderGap">లింగం గ్యాప్ తగ్గించడం</string>
+    <string name="NarrowingGenderGapString">మహిళలు రంగంలోకి రాగానే, తరువాతి తరం మహిళలు విజయం సాధించటానికి అవకాశం ఉంది. ఇది మహిళలకు మరింత ఉద్యోగ సృష్టికి దారితీస్తుంది, చివరికి శ్రామికశక్తిలో లింగ గ్యాప్ తగ్గించడంలో సహాయపడుతుంది
+        \n\n\tpage 2 of 3</string>
+
+    <string name="SocialChange">సామాజిక మార్పు</string>
+    <string name="SocialChangeString">మహిళా వ్యవస్థాపకత విపరీతమైన సాంఘిక మార్పులకు దారితీస్తుంది, మహిళలకు ఆర్ధికంగా స్వతంత్రంగా చేస్తుంది. అది మహిళల్లో విశ్వాసాన్ని మరియు ఆనందాన్ని పెంచుతుంది మరియు వారి స్వీయ గౌరవం మరియు మొత్తం శ్రేయస్సును పెంచవచ్చు
+    \n\n\tpage 3 of 3</string>
+    <string name="Pricing">ధర</string>
+    <string name="PricingString">వారి వ్యవస్థాపక వెంచర్లో మహిళలను పెంచడానికి అత్యంత సరసమైన మరియు సరళమైన పరిష్కారం. మేము చందా ఖర్చులను వీలైనంత తక్కువగా ఉంచాము, అందుచేత ఎక్కువ మంది మహిళలు మేము వివిధ పథకాల ద్వారా అందించే అవకాశాలని పొందగలుగుతారు</string>
+    <string name="Basic">Basic</string>
+    <string name="BasicString">
+   ₹1000/mo
+        \nSingle-Page Website
+   \nDomain Support yourbusiness.codebinary.in
+    \nHosting Support
+    \n1 Database
+    \n1 Business Email
+    \n10 GB Storage
+    \nNO SSL Certificate
+    \nLogo Design
+    \n100 Business Card
+    \n1000 SMS Marketing
+    \nUnmetered Bandwidth
+    \nTechnical Support and Maintenance
+    \nCMS Support by Github
+    \nUdyogAadhar Assistance
+    \nUS Data Center
+    \nSubscription Duration: 3 months
+
+
+</string>
+    <string name="Standard">Standard</string>
+    <string name="StandardString">
+        ₹1500/mo\n
+
+    4-Page Website\n
+    Domain Support yourbusiness.codebinary.in\n
+    Hosting Support\n
+    2 Database\n
+    2 Business Email\n
+    20 GB Storage\n
+    NO SSL Certificate\n
+    Logo Design, Business Card Design\n
+    1000 Business Card\n
+    2000 SMS Marketing\n
+    Unmetered Bandwidth\n
+    Technical Support and Maintenance\n
+    CMS Support by Github\n
+    UdyogAadhar Assistance\n
+    US Data Center\n
+    Subscription Duration: 3 months\n
+
+
+    </string>
+    <string name="Premium">Premium</string>
+    <string name="PremiumString">
+         ₹3000/mo\n
+
+    Unlimited-Page Website\n
+    Domain Support yourbusiness.codebinary.in\n
+    Hosting Support\n
+    Unlimited Database\n
+    Unlimited Business Email\n
+    Unlimited Storage\n
+    SSL Certificate Support\n
+    Logo Design, Business Card Design\n
+    2000 Business Card\n
+    5000 SMS Marketing\n
+    Unmetered Bandwidth\n
+    Technical Support and Maintenance\n
+    CMS Support by Github\n
+    UdyogAadhar Assistance\n
+    US Data Center\n
+    Subscription Duration: 3 months
+
+
+    </string>
+    <string name="GetStarted">Get Started</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="ContactUsString">
+         FF-27,Cross Road Mall,Central Spine,\n
+        Vidhyadhar Nagar, Jaipur\n
+        Rajasthan, India\n
+\n
+        Email: kalpanaa@codebinary.in
+    </string>
+    <string name="TermsOfService">Terms-Of-Service</string>
+    <string name="TermsOfServiceLink">https://codebinary.in/terms-of-service.html</string>
+</resources>

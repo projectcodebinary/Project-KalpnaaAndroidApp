@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalpanaa</string>
+    <string name="English">ENGLISH</string>
+    <string name="Bengali">BENGALI</string>
+    <string name="Tamil">TAMIL</string>
+    <string name="Gujrati">GUJRATI</string>
+    <string name="Telegu">TELEGU</string>
+    <string name="Marathi">MARATHI</string>
+    <string name="Nepali">NEPALI</string>
+    <string name="Hindi">HINDI</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Register">नया उपयोगकर्ता? साइन अप करें</string>
+    <string name="ChangeLanguage">भाषा बदलो</string>
+    <string name="Introduction">
+परिचय\n
+KALPANAA\n
+एक महिला उद्यमी सहायता कार्यक्रम
+
+महिलाओं को उद्यमशीलता की भावना को बढ़ावा देने के लिए महिलाओं को अपने घरेलू व्यवसाय को वैश्विक मोर्चे पर लाने या उन्हें एक नए व्यवसाय के अपने विचार को आकार देने में मदद करने के लिए एक नया आयाम देने के लिए शुरू किया गया।
+</string>
+    <string name="About">कल्पना के बारे में</string>
+    <string name="AboutString">
+        कल्पना एक महिला उद्यमी सहायता कार्यक्रम है जिसकी शुरुआत महिलाओं में उद्यमशीलता की भावना को बढ़ावा देने के लिए की गई है ताकि वे अपने घरेलू व्यवसाय को वैश्विक मोर्चे पर लाकर या उन्हें एक नए व्यवसाय के अपने विचार को आकार देने में मदद कर सकें।
+
+        इस कार्यक्रम के माध्यम से महिलाएं डिजिटल सेवाओं और बुनियादी ढांचे तक पहुंच बना सकेंगी, जो उनके विचारों को आकार देने, समर्थन करने और विकसित करने में सक्षम होंगे ताकि उनके व्यापार प्रयासों को बहुत कम और सस्ती लागत पर सफल बनाया जा सके।
+    </string>
+    <string name="Insight">इनसाइट्स</string>
+    <string name="InsightString">भारत में, महिलाओं में लगभग 30 प्रतिशत कॉर्पोरेट वरिष्ठ प्रबंधन पद शामिल हैं, जो वैश्विक औसत (24 प्रतिशत) से काफी अधिक है।
+
+लेकिन समग्र कार्यबल में, भारत दुनिया के सबसे खराब देशों में से एक है - 135 में से 113 वां स्थान - जब यह लैंगिक अंतर की बात आती है। और देश में कुल उद्यमियों की संख्या का केवल 10 प्रतिशत महिला उद्यमियों का है।</string>
+    <string name="OurVision">हमारी दृष्टि</string>
+    <string name="OurVisionString">हमारा मानना ​​है कि महिला सशक्तीकरण और सामाजिक और आर्थिक बदलाव यह समाज में बड़े पैमाने पर ला सकता है।</string>
+
+    <string name="EconomicGrowth">आर्थिक विकास</string>
+    <string name="EconomicGrowthString">महिला उद्यमियों के पास अधिक प्रभावी संचार, नेटवर्किंग कौशल हैं जो उनके संगठनों की विफलता के जोखिम को कम करता है।
+        इसलिए, कार्यबल में अधिक महिलाओं की आमद महत्वपूर्ण आर्थिक विकास का कारण बनेगी।
+    \n\n\tpage 1 of 3</string>
+
+    <string name="NarrowingGenderGap">नैरोपरिंग जेंडर गैप</string>
+    <string name="NarrowingGenderGapString">जब महिलाएं एक क्षेत्र में सफल हो जाती हैं, तो महिलाओं की अगली पीढ़ी को उनकी सफलता का अनुकरण करने की अधिक संभावना होती है। इससे महिलाओं के लिए अधिक रोजगार सृजन होता है जो अंततः कार्यबल में लिंग अंतर को कम करने में मदद करता है।
+    \n\n\tpage 2 of 3</string>
+
+    <string name="SocialChange">सामाजिक बदलाव</string>
+    <string name="SocialChangeString">महिला उद्यमिता से जबरदस्त सामाजिक परिवर्तन हो सकता है, जिससे महिलाएँ आर्थिक रूप से स्वतंत्र होंगी। जो महिलाओं में आत्मविश्वास और खुशी के स्तर को बढ़ा सकता है और उनके आत्मसम्मान और समग्र कल्याण को बढ़ावा दे सकता है।
+    \n\n\tpage 3 of 3</string>
+    <string name="Pricing">मूल्य निर्धारण</string>
+    <string name="PricingString">अपने उद्यमशीलता उद्यम में महिलाओं को बढ़ावा देने के लिए सबसे सस्ती और सरल उपाय। हमने सदस्यता लागत को यथासंभव कम रखा है ताकि अधिक महिलाएं उन अवसरों का लाभ उठा सकें जो हम विभिन्न योजनाओं के माध्यम से प्रदान करते हैं।</string>
+    <string name="Basic">Basic</string>
+    <string name="BasicString">
+    ₹1000/mo
+        \nSingle-Page Website
+   \nDomain Support yourbusiness.codebinary.in
+    \nHosting Support
+    \n1 Database
+    \n1 Business Email
+    \n10 GB Storage
+    \nNO SSL Certificate
+    \nLogo Design
+    \n100 Business Card
+    \n1000 SMS Marketing
+    \nUnmetered Bandwidth
+    \nTechnical Support and Maintenance
+    \nCMS Support by Github
+    \nUdyogAadhar Assistance
+    \nUS Data Center
+    \nSubscription Duration: 3 months
+
+</string>
+    <string name="Standard">Standard</string>
+    <string name="StandardString">
+       ₹1500/mo\n
+
+    4-Page Website\n
+    Domain Support yourbusiness.codebinary.in\n
+    Hosting Support\n
+    2 Database\n
+    2 Business Email\n
+    20 GB Storage\n
+    NO SSL Certificate\n
+    Logo Design, Business Card Design\n
+    1000 Business Card\n
+    2000 SMS Marketing\n
+    Unmetered Bandwidth\n
+    Technical Support and Maintenance\n
+    CMS Support by Github\n
+    UdyogAadhar Assistance\n
+    US Data Center\n
+    Subscription Duration: 3 months\n
+
+
+    </string>
+    <string name="Premium">Premium</string>
+    <string name="PremiumString">
+        ₹3000/mo\n
+
+    Unlimited-Page Website\n
+    Domain Support yourbusiness.codebinary.in\n
+    Hosting Support\n
+    Unlimited Database\n
+    Unlimited Business Email\n
+    Unlimited Storage\n
+    SSL Certificate Support\n
+    Logo Design, Business Card Design\n
+    2000 Business Card\n
+    5000 SMS Marketing\n
+    Unmetered Bandwidth\n
+    Technical Support and Maintenance\n
+    CMS Support by Github\n
+    UdyogAadhar Assistance\n
+    US Data Center\n
+    Subscription Duration: 3 months
+
+
+    </string>
+    <string name="GetStarted">Get Started</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="ContactUsString">
+        FF-27,Cross Road Mall,Central Spine,\n
+        Vidhyadhar Nagar, Jaipur\n
+        Rajasthan, India\n
+\n
+        Email: kalpanaa@codebinary.in
+    </string>
+    <string name="TermsOfService">Terms-Of-Service</string>
+    <string name="TermsOfServiceLink">https://codebinary.in/terms-of-service.html</string>
+</resources>
